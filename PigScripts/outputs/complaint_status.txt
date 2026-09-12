@@ -1,0 +1,7 @@
+Closed,3670042
+In Progress,101452
+Open,58259
+Assigned,12705
+Pending,5774
+Started,1606
+Unspecified,162

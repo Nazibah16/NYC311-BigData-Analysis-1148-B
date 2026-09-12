@@ -1,0 +1,10 @@
+"Illegal Parking",595463
+"Noise - Residential",428229
+"HEAT/HOT WATER",356698
+"Blocked Driveway",188778
+"Noise - Street/Sidewalk",169286
+"UNSANITARY CONDITION",130193
+"Street Condition",116290
+"PLUMBING",81430
+"Water System",72834
+"Abandoned Vehicle",68736

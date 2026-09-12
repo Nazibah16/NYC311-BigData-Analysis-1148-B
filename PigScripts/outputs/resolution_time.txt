@@ -1,0 +1,10 @@
+Noise - Helicopter,232,6661.0737140804595
+Green Taxi Report,1,1746.9694444444445
+Taxi Licensee Complaint,3,4146.302592592593
+Taxi Complaint,1992,3463.0098895582328
+FHV Licensee Complaint,2,3234.0205555555556
+Taxi Report,38,3217.22840935672
+For Hire Vehicle Report,46,3018.441557971014
+Root/Sewer/Sidewalk Condition,2393,2403.0175594326047
+For Hire Vehicle Complaint,7589,2130.1309669697375
+Taxi Compliment,105,1470.9689894179892

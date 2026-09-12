@@ -1,0 +1,5 @@
+chunks/
+*.csv
+*.log
+output/
+*.tmp

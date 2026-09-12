@@ -1,0 +1,10 @@
+Street/Sidewalk,1152224
+RESIDENTIAL BUILDING,877109
+Residential Building/House,467632
+Street,348804
+Sidewalk,191735
+Store/Commercial,53412
+Park,31905
+Club/Bar/Restaurant,24789
+Business,18655
+Park/Playground,16608
