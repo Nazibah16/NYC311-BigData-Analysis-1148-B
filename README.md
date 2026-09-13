@@ -16,7 +16,7 @@ The dataset used in this project is the **NYC 311 Service Requests from 2020 to 
 - **Approximate Local Dataset Size:** 3.28 GB
 - **Storage:** HDFS
 - **Dataset Source:**  
-[NYC 311 Service Requests from 2020 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9)
+[NYC Open Data - 311 Service Requests](https://opendata.cityofnewyork.us/311-service-requests-from-2010-to-present-updates/)
 
 The complete CSV dataset is not included in this repository because of its large file size.
 
