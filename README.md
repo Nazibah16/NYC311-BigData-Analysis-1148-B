@@ -27,6 +27,27 @@ The complete CSV dataset is not included in this repository because of its large
 - **Java** – MapReduce program development
 - **Windows Command Prompt** – Hadoop and Pig execution environment
 
+## Analyses Performed
+
+### Hadoop MapReduce
+
+Three MapReduce analyses were implemented:
+
+1. Requests by Borough
+2. Requests by Agency
+3. Requests by Submission Channel
+
+### Apache Pig
+
+Six Pig analyses were implemented:
+
+1. Top Complaint Types
+2. Complaints by Borough
+3. Average Resolution Time
+4. Monthly Complaint Trends
+5. Complaint Status Distribution
+6. Top Complaint Locations
+
 ## HDFS
 
 The dataset was stored in HDFS under the following directories:
@@ -35,23 +56,3 @@ The dataset was stored in HDFS under the following directories:
 /311data
 /311data/input
 
-## Analyses Performed
-
-### Hadoop MapReduce
-
-Three MapReduce analyses were implemented:
-
-1. **Requests by Borough**
-2. **Requests by Agency**
-3. **Requests by Submission Channel**
-
-### Apache Pig
-
-Six Pig analyses were implemented:
-
-1. **Top Complaint Types**
-2. **Complaints by Borough**
-3. **Average Resolution Time**
-4. **Monthly Complaint Trends**
-5. **Complaint Status Distribution**
-6. **Top Complaint Locations**
