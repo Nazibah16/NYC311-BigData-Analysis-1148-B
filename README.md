@@ -34,3 +34,24 @@ The dataset was stored in HDFS under the following directories:
 ```text
 /311data
 /311data/input
+
+## Analyses Performed
+
+### Hadoop MapReduce
+
+Three MapReduce analyses were implemented:
+
+1. **Requests by Borough**
+2. **Requests by Agency**
+3. **Requests by Submission Channel**
+
+### Apache Pig
+
+Six Pig analyses were implemented:
+
+1. **Top Complaint Types**
+2. **Complaints by Borough**
+3. **Average Resolution Time**
+4. **Monthly Complaint Trends**
+5. **Complaint Status Distribution**
+6. **Top Complaint Locations**
