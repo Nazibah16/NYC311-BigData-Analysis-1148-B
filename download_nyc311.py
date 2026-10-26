@@ -3,6 +3,7 @@ import csv
 import os
 import time
 
+check="commit check"
 URL = "https://data.cityofnewyork.us/resource/erm2-nwe9.csv"
 
 START_DATE = "2024-09-01T00:00:00"
